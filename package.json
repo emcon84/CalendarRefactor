@@ -1,0 +1,25 @@
+{
+  "name": "calendar-spots",
+  "version": "1.0.0",
+  "description": "Gdedieu stealing challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest CalendarRefactor.test.js",
+    "lint": "eslint ."
+  },
+  "author": "Internet - Amine",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^26.1.0",
+    "standard": "^14.3.4"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
